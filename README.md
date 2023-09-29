@@ -5,12 +5,12 @@
 🎓 **Education:** B.Sc. in Information Systems, National University of Singapore (NUS)  
 
 ## 🌱 Currently Learning
-- GoLang
+- Go
 - Advanced System Design
 
 ## 🔭 Skills & Expertise
-- **Languages:** Java, JavaScript/TypeScript, C#, GoLang
-- **Frameworks:** React, .NET
+- **Languages:** GoLang, Java, JavaScript/TypeScript, C#
+- **Frameworks:** React, Angular, .NET Core MVC Entity Framework
 - **Specialties:** Application Development, Algorithmic Problem Solving, LeetCode Solver
 
 <!-- Uncomment to include Achievements if needed
