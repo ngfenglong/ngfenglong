@@ -1,6 +1,12 @@
 # Hi, I'm Zell (Feng Long)! 👋
 
-🌏 **Singapore** | 💻 **Software Developer** | 🎓 **B.Sc. in Information Systems, NUS**
+🌏 **Singapore** | 💻 **Software Developer** |  🧠 **Focused on Continuous Learning and Growth**
+
+<details>
+  <summary>👤 About Me </summary>
+
+I am passionate about the transformative power of technology, and I am always eager to explore and create with it. I believe in blending technology, creativity, and craftsmanship to solve problems and grasp new concepts each day. Outside of tech, I find balance in street dance and have a deep appreciation for rhythm, movement, and Japanese culture. I am a cat enthusiast and aspire to share my experiences and knowledge, contributing to the collective learning of the community.
+</details>
 
 <details>
   <summary>🌱 Learning & Skills</summary>
@@ -19,10 +25,4 @@
    - 🔄 **Status:** Ongoing
 </details>
 
-<details>
-  <summary>👤 About Me & Connect</summary>
 
-I am passionate about the transformative power of technology, and I am always eager to explore and create with it. I believe in blending technology, creativity, and craftsmanship to solve problems and grasp new concepts each day. Outside of tech, I find balance in street dance and have a deep appreciation for rhythm, movement, and Japanese culture. I am a cat enthusiast and aspire to share my experiences and knowledge, contributing to the collective learning of the community.
-   
-- **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ngfenglong) | [Instagram](https://instagram.com/tech.withzell) | [Twitter](https://twitter.com/Zell_Dev)
-</details>
