@@ -1,58 +1,28 @@
-# Hello, I'm Zell (Feng Long)! 👋
+# Hi, I'm Zell (Feng Long)! 👋
 
-📍 **Location:** Singapore  
-💼 **Role:** Software Developer | Aspiring Solution Architect  
-🎓 **Education:** B.Sc. in Information Systems, National University of Singapore (NUS)  
+🌏 **Singapore** | 💻 **Software Developer** | 🎓 **B.Sc. in Information Systems, NUS**
 
-## 🌱 Currently Learning
-- Go
-- Advanced System Design
+<details>
+  <summary>🌱 Learning & Skills</summary>
+   
+- **Exploring:** Go, System Design Principles
+- **Skilled In:** Go, Java, JavaScript/TypeScript, C#, React, Angular, .NET Core MVC Entity Framework
+</details>
 
-## 🔭 Skills & Expertise
-- **Languages:** GoLang, Java, JavaScript/TypeScript, C#
-- **Frameworks:** React, Angular, .NET Core MVC Entity Framework
-- **Specialties:** Application Development, Algorithmic Problem Solving, LeetCode Solver
-
-<!-- Uncomment to include Achievements if needed
-## 📈 Achievements
-- 1st Runner Up, NUS 13th SoC Term Project Showcase (STePS) for IS3106
--->
-
-## 📦 Highlighted Projects
-### 🗺️ **Ikou**
-   A community-driven travel app, Ikou allows users to create, discover, and plan trips, activities, and places with seamless interaction.
-   - 🖥️ **Frontend:** [React-Typescript](https://github.com/ngfenglong/ikou-website) _(Netlify)_
-   - 🖱️ **Backend:** [Golang](https://github.com/ngfenglong/Ikou-backend) _(Digital Ocean)_
-   - 🔄 **Status:** Ongoing
+<details>
+  <summary>🚀 Projects</summary>
+   
+- **Ikou:** A community-driven travel app allowing users to create, discover, and plan trips and activities with seamless interaction.
+   - 🖥️ **Frontend:** [React-Typescript](https://github.com/ngfenglong/ikou-website) 
+   - 🖱️ **Backend:** [Golang](https://github.com/ngfenglong/Ikou-backend) 
    - 🚀 **Live App:** [Ikou](https://ikou-web.netlify.app/)
-     <!-- - 🌟 **Features:**
-     - User Authentication
-     - Community Contributions
-     - Advanced Trip Planning -->
+   - 🔄 **Status:** Ongoing
+</details>
 
-## 💬 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/ngfenglong)
-- [Twitter](https://twitter.com/Zell_Dev)
-- Email: [zell_dev@hotmail.com](mailto:zell_dev@hotmail.com)
+<details>
+  <summary>👤 About Me & Connect</summary>
 
-📄 **Portfolio & Blog:** [With Zell](https://withzell.vercel.app/)
-
-## ⭐️ A Bit More About Me
-I am passionate about the transformative power of technology and its endless possibilities. I believe in blending technology, creativity, and craftsmanship to solve problems and grasp new concepts each day. Outside of tech, I find balance in street dance and have a deep appreciation for rhythm, movement, and Japanese culture. I am a cat enthusiast and aspire to share my experiences and knowledge, contributing to the collective learning of the community.
-
-
-
-<!--
-**ngfenglong/ngfenglong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about the transformative power of technology, and I am always eager to explore and create with it. I believe in blending technology, creativity, and craftsmanship to solve problems and grasp new concepts each day. Outside of tech, I find balance in street dance and have a deep appreciation for rhythm, movement, and Japanese culture. I am a cat enthusiast and aspire to share my experiences and knowledge, contributing to the collective learning of the community.
+   
+- **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ngfenglong) | [Instagram](https://instagram.com/tech.withzell) | [Twitter](https://twitter.com/Zell_Dev)
+</details>
