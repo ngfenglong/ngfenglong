@@ -1,15 +1,15 @@
 # Hi, I'm Zell (Feng Long)! 👋
 
-🌏 **Singapore** | 💻 **Software Developer** |  🧠 **Focused on Continuous Learning and Growth**
+🌏 **Singapore** | 💻 **Software Developer** |  📈 **Committed to Continuous Learning and Advancement**
 
 <details>
   <summary>👤 About Me </summary>
 
-I am passionate about the transformative power of technology, and I am always eager to explore and create with it. I believe in blending technology, creativity, and craftsmanship to solve problems and grasp new concepts each day. Outside of tech, I find balance in street dance and have a deep appreciation for rhythm, movement, and Japanese culture. I am a cat enthusiast and aspire to share my experiences and knowledge, contributing to the collective learning of the community.
+I am passionate about the transformative power of technology, and I am always eager to explore and create with it. I believe in blending technology, creativity, and craftsmanship to solve problems and grasp new concepts each day. Outside of tech, I find balance in street dance and have a deep appreciation for Japanese culture. I am a cat enthusiast and aspire to share my experiences and knowledge, contributing to the collective learning of the community.
 </details>
 
 <details>
-  <summary>🌱 Learning & Skills</summary>
+  <summary> 💡 Learning & Skills</summary>
    
 - **Exploring:** Go, System Design Principles
 - **Skilled In:** Go, Java, JavaScript/TypeScript, C#, React, Angular, .NET Core MVC Entity Framework
@@ -19,10 +19,11 @@ I am passionate about the transformative power of technology, and I am always ea
   <summary>🚀 Projects</summary>
    
 - **Ikou:** A community-driven travel app allowing users to create, discover, and plan trips and activities with seamless interaction.
-   - 🖥️ **Frontend:** [React-Typescript](https://github.com/ngfenglong/ikou-website) 
-   - 🖱️ **Backend:** [Golang](https://github.com/ngfenglong/Ikou-backend) 
-   - 🚀 **Live App:** [Ikou](https://ikou-web.netlify.app/)
-   - 🔄 **Status:** Ongoing
+  - [Frontend Repo - React](https://github.com/ngfenglong/ikou-website)
+  - [Backend Repo - Go](https://github.com/ngfenglong/ikou-backend)
+
+- **GoScrapeFlow:** An intuitive CLI-based web scraper leveraging sitemaps to efficiently harvest online data, perfect for data aggregation and analysis tasks.
+  - [CLI Repo - Go](https://github.com/ngfenglong/go-scrape-flow)
 </details>
 
 
