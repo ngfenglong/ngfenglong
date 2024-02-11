@@ -24,6 +24,10 @@ I am passionate about the transformative power of technology, and I am always ea
 
 - **GoScrapeFlow:** An intuitive CLI-based web scraper leveraging sitemaps to efficiently harvest online data, perfect for data aggregation and analysis tasks.
   - [CLI Repo - Go](https://github.com/ngfenglong/go-scrape-flow)
+
+- **Time-To-Makan (TTM):** A solution for the "Where should we eat?" dilemma in Novena, Singapore, featuring a web app and Telegram bot for random restaurant suggestions.
+  - [Telegram Bot Repo - Python](https://github.com/ngfenglong/food-randomizer-bot) - Interacts with users to provide random restaurant suggestions in the Novena area.
+  - [Backend Repo - Go](https://github.com/ngfenglong/food-randomizer-BE)- Powers both the TTM web application and Telegram bot for managing dining place suggestions.
 </details>
 
 
