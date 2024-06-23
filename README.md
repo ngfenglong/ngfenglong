@@ -11,7 +11,7 @@ I am passionate about the transformative power of technology, and I am always ea
 <details>
   <summary> 💡 Learning & Skills</summary>
    
-- **Exploring:** Go, System Design Principles
+- **Exploring:** Go, System Design Principles, Applied Artificial Intelligence
 - **Skilled In:** Go, Java, JavaScript/TypeScript, C#, React, Angular, .NET Core MVC Entity Framework
 </details>
 
