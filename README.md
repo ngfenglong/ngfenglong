@@ -3,7 +3,6 @@
 
 ---
 
-### 🌟 Tech Stack
 **Language**: ![Go](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&color=00ADD8)   ![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)   ![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&color=3178C6)  ![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=3776AB)  ![Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&color=007396)  ![C#](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=csharp&color=239120)  
 
 **Framework**: ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)  ![Angular](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&color=DD0031)  ![.NET](https://img.shields.io/badge/Framework-.NET_Core_MVC-informational?style=flat&logo=dotnet&color=512BD4) ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&color=000000)   ![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat&logo=tailwindcss&color=06B6D4)  
