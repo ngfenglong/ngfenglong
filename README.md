@@ -43,6 +43,7 @@ I am a backend software developer passionate about building scalable, high-perfo
 ### 📖 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [**Why Distributed Systems Need Their Own Unique ID Generator**](https://medium.com/@zell_dev/why-distributed-systems-need-their-own-unique-id-generator-38bd10bcbc97)
 - [**Stock Scouter Bot: A Software Engineer’s Journey in Building a Swing Trading Tool**](https://medium.com/@zell_dev/stock-scouter-bot-a-software-engineers-journey-in-building-a-swing-trading-tool-518e5c3b0e5a)  
 - [**How I Deployed My Python Bot to EC2 with CI/CD Using GitHub Actions**](https://blog.devops.dev/how-i-deployed-my-python-bot-to-ec2-with-ci-cd-using-github-actions-7d81db522177)  
 - [**Navigating the Tech Landscape: My Insights from DevFest 2023**](https://medium.com/@zell_dev/navigating-the-tech-landscape-my-insights-from-devfest-2023-2ca7880317a2)  
